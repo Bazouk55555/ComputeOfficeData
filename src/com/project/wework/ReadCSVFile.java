@@ -61,6 +61,7 @@ public class ReadCSVFile {
 		}
 	    }
 	}
+	//The revenue is truncated
 	result[0] = (int) rent;
 	result[1] = capacity;
 	return result;
